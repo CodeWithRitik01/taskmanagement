@@ -1,0 +1,25 @@
+.addForm{
+    height: 50%;
+    width: 40%;
+    position: absolute;
+    left: 30%;
+    top:10%;
+    border: 1px solid gray;
+    padding: 30px;
+}
+
+.backImg{
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+}
+
+.backImg:active{
+    height: 55px;
+    width: 55px;
+}
+
+.backImg:hover{
+    box-shadow: 0px 5px 5px 0px gray;
+    border-radius: 50%;
+}
